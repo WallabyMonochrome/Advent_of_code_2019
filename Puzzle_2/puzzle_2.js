@@ -49,4 +49,6 @@ function computeOpCode(opcode, expected) {
     }
 }
 
-testingOpcode();
+computeOpCode(opcodeBase);
+
+// testingOpcode();
